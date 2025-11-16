@@ -1,2 +1,2 @@
 # File-Converter
-Converts aal types of images
+Converts all types of images
